@@ -130,6 +130,7 @@ namespace Eng2Myan
             Controls.Add(unicodeOut);
             Controls.Add(transliterateOutput);
             Controls.Add(usrInput);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
             Name = "Eng2Myan";
             Text = "Eng2Myan";
