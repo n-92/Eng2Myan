@@ -1,4 +1,4 @@
-Eng2Myan: Phonetic Zawgyi & Unicode Utility
+## Eng2Myan: Phonetic Zawgyi & Unicode Utility
 
 A C# Windows Forms utility that transliterates English phonetic (Burglish) input into both Zawgyi and Unicode Burmese text simultaneously.
 
